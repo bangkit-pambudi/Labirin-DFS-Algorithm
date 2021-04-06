@@ -1,0 +1,15 @@
+PANDUAN TUBES LABIRIN
+1.Program ini berupa mini game yang dapat memindahkan 's' yang terjebak di sebuah labirin
+  dan harus menemukan 'g' sebagai pintu keluar
+2.Tujuan Utama Program ini dibuat untuk dapat menemukan jalur terpendek sehingga membantu user
+  Untuk menemukan jalur tercepatnya dan menemukan posisi 'g'
+3.Labirin dapat diganti dengan menginputkan nama file yang diinginkan
+4.Gunakan prinsip Pohon rekursif untuk menemukan jalur tercepatnya
+
+
+POIN NILAI :
+1. Dapat membuat algoritma sehingga dapat mencari jalur tercepat untuk sampai ke 'g' (40 POIN)
+2. Dapat mengganti peta labirin dengan memanggil nama file (5 POIN)
+3. Dapat Memindahakan titik 's' dengan fungsi keyboard (10 POIN)
+4. Dapat mereset/menghilangkan jalur tercepat yag telah dibuat (5 POIN)
+5. Presentasi dan dapat menemukan Bug dalam program, Serta menupgrade program menjadi lebih baik dan bagus (20 POIN)
